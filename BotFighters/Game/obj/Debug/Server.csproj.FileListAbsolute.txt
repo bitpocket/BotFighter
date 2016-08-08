@@ -1,0 +1,5 @@
+C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Server\bin\Debug\Server.dll
+C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Server\bin\Debug\Server.pdb
+C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Server\obj\Debug\Server.dll
+C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Server\obj\Debug\Server.pdb
