@@ -1,5 +1,0 @@
-C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Player\bin\Debug\Player.dll
-C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Player\bin\Debug\Player.pdb
-C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
-C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Player\obj\Debug\Player.dll
-C:\Users\leo\documents\visual studio 2015\Projects\BitFighter\Player\obj\Debug\Player.pdb
