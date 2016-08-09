@@ -1,4 +1,4 @@
-﻿namespace Server.Repositories
+﻿namespace Game
 {
     public enum GameType
     {

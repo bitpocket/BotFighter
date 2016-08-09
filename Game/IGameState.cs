@@ -1,4 +1,4 @@
-﻿namespace Server
+﻿namespace Game
 {
     public interface IGameState
     {
